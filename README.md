@@ -10,7 +10,7 @@
 - 💼 Disponível para freelas.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,react" />
+  <img src="https://skillicons.dev/icons?i=python,cs,react,mysql,mongodb" />
 </div>
 
 <br>
